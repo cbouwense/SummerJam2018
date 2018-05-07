@@ -1,0 +1,12 @@
+
+10
+00000	0200	b	h	0	spr0_y
+00001	0201	b	h	0	spr0_tile
+00002	0202	b	h	0	spr0_attr
+00003	0203	b	h	0	spr0_x
+00004	0204	b	h	0	spr1_y
+00005	0205	b	h	0	spr1_tile
+00006	0206	b	h	0	spr1_attr
+00007	0207	b	h	0	spr1_x
+00008	020B	b	h	0	
+00009	020F	b	h	0	
